@@ -170,7 +170,7 @@ Full fabrication files are available in the repository.
 
 ## Author
 
-**Amar Gangadhar
+** Amar Gangadhar **
 Electronics Engineer | Embedded Systems Designer |  Embedded Firmware Developer | PCB Design Engineer
 
 ---
