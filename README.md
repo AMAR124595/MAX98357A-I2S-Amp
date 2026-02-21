@@ -171,6 +171,6 @@ Full fabrication files are available in the repository.
 ## Author
 
 **Amar Gangadhar
-Embedded Systems & PCB Design Engineer
+Electronics Engineer | Embedded Systems Designer |  Embedded Firmware Developer | PCB Design Engineer
 
 ---
